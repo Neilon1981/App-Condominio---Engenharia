@@ -61,3 +61,11 @@ Ser o aplicativo de referência em inovação e usabilidade para gestão condomi
 ---
 
 ## 📂 Estrutura do Projeto
+## 📂 Documentação
+
+- [📘 TAP – Termo de Abertura do Projeto](docs/TAP.md)
+- [📄 Documento para Elicitação de Requisitos](docs/Elicitacao_de_Requisitos.md)
+- [📑 Documentação de Requisitos](docs/Requisitos.md)
+- [📊 Matriz SWOT](docs/SWOT.md)
+- [📊 Matriz 5W2H](docs/5W2H.md)
+
