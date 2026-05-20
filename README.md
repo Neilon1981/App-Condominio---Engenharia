@@ -68,4 +68,5 @@ Ser o aplicativo de referência em inovação e usabilidade para gestão condomi
 - [📑 Documentação de Requisitos](docs/Requisitos.md)
 - [📊 Matriz SWOT](docs/SWOT.md)
 - [📊 Matriz 5W2H](docs/5W2H.md)
+- [📊 Matriz de Rastreabilidade](docs/Matriz_de_Rastreabilidade.md)
 
