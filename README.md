@@ -69,5 +69,5 @@ Ser o aplicativo de referência em inovação e usabilidade para gestão condomi
 - [📊 Matriz SWOT](docs/SWOT.md)
 - [📊 Matriz 5W2H](docs/5W2H.md)
 - [📊 Matriz de Rastreabilidade](docs/Matriz_de_Rastreabilidade.md)
-- [Missão, Visão e Valores](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Miss%C3%A3o%2C%20Vis%C3%A3o%2C%20Valores.md)
+- [## 📑Missão, Visão e Valores](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Miss%C3%A3o%2C%20Vis%C3%A3o%2C%20Valores.md)
 
