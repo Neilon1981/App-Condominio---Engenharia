@@ -69,7 +69,7 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 - [📊 Métricas – Custo do Projeto](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/55904896922a453ea69cf2624bf00acf5e37fb72/docs/M%C3%A9tricas.md)
 
 📂 Confira os detalhes completos no documento:  
-[Proposta Comercial](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Proposta%20Comercial.md)
+- [Proposta Comercial](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Proposta%20Comercial.md)
   
 ## 📄 Licença
 
