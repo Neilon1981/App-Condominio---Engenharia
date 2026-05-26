@@ -54,12 +54,13 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 ## 📂 Documentação
 
 - [📘 TAP – Termo de Abertura do Projeto](docs/TAP.md)
+- [📑Missão, Visão e Valores](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Miss%C3%A3o%2C%20Vis%C3%A3o%2C%20Valores.md)
 - [📄 Documento para Elicitação de Requisitos](docs/Elicitação_requisitos.md)
 - [📑 Documentação de Requisitos](docs/Requisitos.md)
 - [📊 Matriz SWOT](docs/SWOT.md)
 - [📊 Matriz 5W2H](docs/5W2H.md)
 - [📊 Matriz de Rastreabilidade](docs/Matriz_de_Rastreabilidade.md)
-- [📑Missão, Visão e Valores](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Miss%C3%A3o%2C%20Vis%C3%A3o%2C%20Valores.md)
+
 
 ## 📄 Licença
 
