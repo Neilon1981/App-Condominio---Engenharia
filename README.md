@@ -51,10 +51,7 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 ---
 
 ## 📂 Estrutura do Projeto
--## 🎨 Prototipação de Telas (Mockups)
-
-Confira os detalhes completos dos mockups no documento:  
-[Prototipação de Telas (Mockups)](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/24c41d0dd32755d4d3150f60c0672458323738e0/docs/Prototipa%C3%A7%C3%A3o%20de%20Telas%20(Mockups).md)
+-[Prototipação de Telas (Mockups)](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/24c41d0dd32755d4d3150f60c0672458323738e0/docs/Prototipa%C3%A7%C3%A3o%20de%20Telas%20(Mockups).md)
 - [Diagramas UML](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/diagrama%20uml.jpg)
 
 ## 📂 Documentação
