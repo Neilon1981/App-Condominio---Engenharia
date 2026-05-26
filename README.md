@@ -51,7 +51,7 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 ---
 
 ## 📂 Estrutura do Projeto
-- [Prototipação de Telas (Mockups)](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Prototipos.md)
+- docs/Prototipação de Telas (Mockups).md
 - [Diagramas UML](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/diagrama%20uml.jpg)
 
 ## 📂 Documentação
