@@ -8,7 +8,7 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 ## 👥 Equipe de Desenvolvimento
 
 - **Neilon Jefferson de Oliveira**
-- **Atilano**
+- **Atilano Faleiros Vieira**
 ---
 
 ## 📌 Funcionalidades Principais
