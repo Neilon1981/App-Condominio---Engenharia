@@ -54,7 +54,7 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 - [Prototipação de Telas (Mockups)](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/24c41d0dd32755d4d3150f60c0672458323738e0/docs/Prototipa%C3%A7%C3%A3o%20de%20Telas%20(Mockups).md)
 - [Diagramas UML](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/diagrama%20uml.jpg)
 - [BPMN (Modelagem de Processos)](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/BPMN.md)
-
+- [EAP – Estrutura Analítica do Projeto](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/EAP.md)
 
 ## 📂 Documentação
 
