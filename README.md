@@ -68,6 +68,8 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 - [📊 Documentação de Portabilidade](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/c3331b75c1b412aefcd7052a2379b1026d66ec29/docs/Documenta%C3%A7%C3%A3o%20de%20Portabilidade.md)
 - [📊 Métricas – Custo do Projeto](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/55904896922a453ea69cf2624bf00acf5e37fb72/docs/M%C3%A9tricas.md)
 
+📂 Confira os detalhes completos no documento:  
+[Proposta Comercial](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Proposta%20Comercial.md)
   
 ## 📄 Licença
 
