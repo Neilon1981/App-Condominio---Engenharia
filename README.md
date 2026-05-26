@@ -61,3 +61,13 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 - [📊 Matriz de Rastreabilidade](docs/Matriz_de_Rastreabilidade.md)
 - [📑Missão, Visão e Valores](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Miss%C3%A3o%2C%20Vis%C3%A3o%2C%20Valores.md)
 
+## 📄 Licença
+
+Este projeto é de caráter **acadêmico** e não possui fins comerciais.  
+Uso livre para fins de estudo e aprendizado.
+## 📬 Contato
+
+Para dúvidas ou sugestões, entre em contato com os desenvolvedores:
+
+- Neilon Jefferson de Oliveira  
+- Atilano
