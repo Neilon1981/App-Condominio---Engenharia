@@ -65,8 +65,7 @@ Aplicativo multiplataforma para facilitar a administração de condomínios, int
 - [📊 Matriz SWOT](docs/SWOT.md)
 - [📊 Matriz 5W2H](docs/5W2H.md)
 - [📊 Matriz de Rastreabilidade](docs/Matriz_de_Rastreabilidade.md)
-- [📱 Documentação de Portabilidade](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/main/docs/Documentacao%20de%20Portabilidade.md)
-
+- [📊 Documentação de Portabilidade](https://github.com/Neilon1981/App-Condominio---Engenharia/blob/c3331b75c1b412aefcd7052a2379b1026d66ec29/docs/Documenta%C3%A7%C3%A3o%20de%20Portabilidade.md)
 ## 📄 Licença
 
 Este projeto é de caráter **acadêmico** e não possui fins comerciais.  
