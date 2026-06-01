@@ -36,7 +36,11 @@ A elicitação de requisitos será realizada através de **entrevistas semiestru
 ---
 
 ## 🧠 Responsáveis
-Equipe de alunos do curso de **Análise e Desenvolvimento de Sistemas (ADS)** – Fatec Franca.
+Equipe de alunos do curso de **Análise e Desenvolvimento de Sistemas (ADS)**
+- **Neilon Jefferson de Oliveira**
+- **Atilano Faleiros Vieira**
+---
+– Fatec Franca.
 
 ---
 
